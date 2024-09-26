@@ -1,0 +1,6 @@
+.friendsBox {
+  max-width: 600px;
+  display: flex;
+  margin: 0 30px 30px 30px;
+  justify-content: space-between;
+}
